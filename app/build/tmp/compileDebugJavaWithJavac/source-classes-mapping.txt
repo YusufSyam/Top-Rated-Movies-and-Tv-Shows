@@ -1,0 +1,73 @@
+com/ysfsym/topratedmoviesandtvshows/adapters/bookmark/ViewPagerAdapter.java
+ com.ysfsym.topratedmoviesandtvshows.adapters.bookmark.ViewPagerAdapter
+com/ysfsym/topratedmoviesandtvshows/fragments/FragmentTv.java
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentTv
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentTv$1
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentTv$2
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentTv$3
+com/ysfsym/topratedmoviesandtvshows/dbs/dao/FavoriteDao.java
+ com.ysfsym.topratedmoviesandtvshows.dbs.dao.FavoriteDao
+com/ysfsym/topratedmoviesandtvshows/fragments/TabMovieBookmark.java
+ com.ysfsym.topratedmoviesandtvshows.fragments.TabMovieBookmark
+com/ysfsym/topratedmoviesandtvshows/adapters/movie/MovieAdapter.java
+ com.ysfsym.topratedmoviesandtvshows.adapters.movie.MovieAdapter
+ com.ysfsym.topratedmoviesandtvshows.adapters.movie.MovieAdapter$ViewHolder
+com/ysfsym/topratedmoviesandtvshows/models/tv/TvShowDetail.java
+ com.ysfsym.topratedmoviesandtvshows.models.tv.TvShowDetail
+com/ysfsym/topratedmoviesandtvshows/fragments/FragmentMovie.java
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentMovie
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentMovie$1
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentMovie$2
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentMovie$3
+com/ysfsym/topratedmoviesandtvshows/MainActivity.java
+ com.ysfsym.topratedmoviesandtvshows.MainActivity
+ com.ysfsym.topratedmoviesandtvshows.MainActivity$1
+com/ysfsym/topratedmoviesandtvshows/models/tv/TvResult.java
+ com.ysfsym.topratedmoviesandtvshows.models.tv.TvResult
+com/ysfsym/topratedmoviesandtvshows/TvActivityDetail.java
+ com.ysfsym.topratedmoviesandtvshows.TvActivityDetail
+ com.ysfsym.topratedmoviesandtvshows.TvActivityDetail$1
+com/ysfsym/topratedmoviesandtvshows/adapters/bookmark/TvBookmarkAdapter.java
+ com.ysfsym.topratedmoviesandtvshows.adapters.bookmark.TvBookmarkAdapter
+ com.ysfsym.topratedmoviesandtvshows.adapters.bookmark.TvBookmarkAdapter$ViewHolder
+com/ysfsym/topratedmoviesandtvshows/dbs/table/FavoriteTv.java
+ com.ysfsym.topratedmoviesandtvshows.dbs.table.FavoriteTv
+com/ysfsym/topratedmoviesandtvshows/helper/Utility.java
+ com.ysfsym.topratedmoviesandtvshows.helper.Utility
+com/ysfsym/topratedmoviesandtvshows/models/movie/MovieResult.java
+ com.ysfsym.topratedmoviesandtvshows.models.movie.MovieResult
+com/ysfsym/topratedmoviesandtvshows/networks/Consts.java
+ com.ysfsym.topratedmoviesandtvshows.networks.Consts
+com/ysfsym/topratedmoviesandtvshows/BuildConfig.java
+ com.ysfsym.topratedmoviesandtvshows.BuildConfig
+com/ysfsym/topratedmoviesandtvshows/fragments/TabTvBookmark.java
+ com.ysfsym.topratedmoviesandtvshows.fragments.TabTvBookmark
+com/ysfsym/topratedmoviesandtvshows/models/movie/MovieDetail.java
+ com.ysfsym.topratedmoviesandtvshows.models.movie.MovieDetail
+com/ysfsym/topratedmoviesandtvshows/MovieActivityDetail.java
+ com.ysfsym.topratedmoviesandtvshows.MovieActivityDetail
+ com.ysfsym.topratedmoviesandtvshows.MovieActivityDetail$1
+com/ysfsym/topratedmoviesandtvshows/helper/OnItemClickListener.java
+ com.ysfsym.topratedmoviesandtvshows.helper.OnItemClickListener
+com/ysfsym/topratedmoviesandtvshows/dbs/table/FavoriteMovie.java
+ com.ysfsym.topratedmoviesandtvshows.dbs.table.FavoriteMovie
+com/ysfsym/topratedmoviesandtvshows/adapters/tv/TvShowAdapter.java
+ com.ysfsym.topratedmoviesandtvshows.adapters.tv.TvShowAdapter
+ com.ysfsym.topratedmoviesandtvshows.adapters.tv.TvShowAdapter$ViewHolder
+com/ysfsym/topratedmoviesandtvshows/dbs/AppDatabase.java
+ com.ysfsym.topratedmoviesandtvshows.dbs.AppDatabase
+com/ysfsym/topratedmoviesandtvshows/helper/Genre.java
+ com.ysfsym.topratedmoviesandtvshows.helper.Genre
+com/ysfsym/topratedmoviesandtvshows/networks/GetRetrofit.java
+ com.ysfsym.topratedmoviesandtvshows.networks.GetRetrofit
+com/ysfsym/topratedmoviesandtvshows/fragments/FragmentBookmark.java
+ com.ysfsym.topratedmoviesandtvshows.fragments.FragmentBookmark
+com/ysfsym/topratedmoviesandtvshows/models/tv/TvShow.java
+ com.ysfsym.topratedmoviesandtvshows.models.tv.TvShow
+com/ysfsym/topratedmoviesandtvshows/networks/ApiService.java
+ com.ysfsym.topratedmoviesandtvshows.networks.ApiService
+com/ysfsym/topratedmoviesandtvshows/adapters/bookmark/MovieBookmarkAdapter.java
+ com.ysfsym.topratedmoviesandtvshows.adapters.bookmark.MovieBookmarkAdapter
+ com.ysfsym.topratedmoviesandtvshows.adapters.bookmark.MovieBookmarkAdapter$ViewHolder
+com/ysfsym/topratedmoviesandtvshows/models/movie/Movie.java
+ com.ysfsym.topratedmoviesandtvshows.models.movie.Movie

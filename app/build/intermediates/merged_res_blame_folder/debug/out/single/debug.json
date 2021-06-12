@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_undraw_no_data_re_kwbl.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_undraw_no_data_re_kwbl.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_circle_12.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_circle_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bookmark_movie.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_bookmark_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bookmark_tv.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_bookmark_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_action_bar.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\menu\\fragment_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_movie_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_movie_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bookmark_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_bookmark_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loading.jpg.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\drawable-v24\\loading.jpg"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\font_arista_fat.otf.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\font\\arista_fat.otf"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sc.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_bar_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_bar_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_library_books_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_library_books_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_bookmark_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_movie_detail.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_layout.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_library_books_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_bar_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_action_bar_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_bar_search_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_bar_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_undraw_no_data_re_kwbl.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_undraw_no_data_re_kwbl.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\font_arista_light.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\font\\arista_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_library_books_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_library_books_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tv_detail.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\activity_tv_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back_26.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back_26.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_left_to_right.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\drawable-v24\\gradient_left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_live_tv_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_live_tv_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_row.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back_26.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back_26.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_action_bar_bookmark_24.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_action_bar_bookmark_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_action_bar.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movie.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_library_books_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_bookmark_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_bookmark_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tv.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\fragment_tv.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_library_books_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\menu_detail_action_bar.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\menu\\detail_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\font_arista.ttf.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\font\\arista.ttf"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_movie_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_movie_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_bar_bookmark_border_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_action_bar_bookmark_border_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_action_bar_search_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_action_bar_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_live_tv_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_live_tv_24.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_pager.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\layout\\view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_circle_12.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_circle_12.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_library_books_24.png.flat",
+        "source": "C:\\Users\\LENOVO\\AndroidStudioProjects\\TopRatedMoviesandTvShows\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_library_books_24.png"
+    }
+]

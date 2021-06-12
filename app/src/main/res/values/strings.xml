@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Rated Movies and Tv Shows</string>
+    <string name="nav_1">Top Movie</string>
+    <string name="nav_2">Top TV Show</string>
+    <string name="nav_3">Bookmark</string>
+    <string name="filler_50_words">morbi enim nunc faucibus a pellentesque sit amet porttitor eget dolor morbi non arcu risus quis varius quam quisque id diam vel quam elementum pulvinar etiam non quam lacus suspendisse</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+</resources>
